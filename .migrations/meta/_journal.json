@@ -15,6 +15,13 @@
       "when": 1726443739914,
       "tag": "0001_workable_nehzno",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726446642462,
+      "tag": "0002_dapper_arclight",
+      "breakpoints": true
     }
   ]
 }
